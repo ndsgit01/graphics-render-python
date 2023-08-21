@@ -1,4 +1,4 @@
-# python-graphics-render
+# graphics-render-python
 Render a stationary 3D object (polygon meshes) using Python, Matplotlib
 
 Contents
